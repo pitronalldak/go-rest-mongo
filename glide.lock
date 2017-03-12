@@ -1,0 +1,10 @@
+hash: 466f4e22c1a2d56916af0f660391ae542b16c65a22a9580bd8b4993cdc2afbd3
+updated: 2017-03-12T17:27:52.039673235+03:00
+imports:
+- name: github.com/ant0ine/go-json-rest
+  version: ce4b71cdf7ba29ef443d704bd923f5bbf281ee30
+  subpackages:
+  - rest
+- name: gopkg.in/mgo.v2
+  version: 3f83fa5005286a7fe593b055f0d7771a7dce4655
+testImports: []
